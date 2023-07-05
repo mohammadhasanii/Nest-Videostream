@@ -1,4 +1,4 @@
-# Nest-Stream
+# Nest-Videostream
 
 ![Video Streaming Service](https://img.freepik.com/premium-vector/live-streaming-text-neon-effect-3d-premium-design_532225-23.jpg?w=2000)
 
