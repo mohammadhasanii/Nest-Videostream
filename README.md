@@ -45,17 +45,15 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-## Test
+## Test Video Streaming
 
-```bash
-# unit tests
-$ npm run test
+``
+# run backend
+$ npm run start
 
-# e2e tests
-$ npm run test:e2e
+# run videostream html file
+$ Open the videostream html file
 
-# test coverage
-$ npm run test:cov
 ```
 
 ## Support
